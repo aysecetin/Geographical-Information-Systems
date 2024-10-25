@@ -1,4 +1,4 @@
-# *Introduction to GIS* 📍📊🌎🗺️
+# *Introduction to GIS* 🗺️
 
 *Geographic Information System (GIS) is a computer based information system used to digitally represent spatial and geographic features present on Earth’s surface.
 ‘Every object on Earth can be geo-referenced’ is the primary ideology that makes GIS so successful. GIS is a new planning and analytical tool. It comes with many
