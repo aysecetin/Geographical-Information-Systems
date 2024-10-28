@@ -1,9 +1,7 @@
-# *Introduction to GIS* 🗺️
+# *CBS'ye Giriş 🗺️*
 
-*Geographic Information System (GIS) is a computer based information system used to digitally represent spatial and geographic features present on Earth’s surface.
-‘Every object on Earth can be geo-referenced’ is the primary ideology that makes GIS so successful. GIS is a new planning and analytical tool. It comes with many
-advantages as well as drawbacks. The main purpose of this article is to inform the readers about the new technology, application of the technology and the pros and
-cons of GIS.*
+*Coğrafi Bilgi Sistemi (CBS), Dünya yüzeyinde bulunan mekansal ve coğrafi özellikleri dijital olarak temsil etmek için kullanılan bilgisayar tabanlı bir bilgi sistemidir.
+'Dünya üzerindeki her nesne coğrafi olarak referanslandırılabilir' düşüncesi CBS'yi bu kadar başarılı kılan temel ideolojidir. CBS yeni bir planlama ve analitik araçtır. Birçok avantajının yanı sıra dezavantajları da bulunmaktadır. Bu makalenin temel amacı, okuyucuları yeni teknoloji, teknolojinin uygulanması ve CBS'nin artıları ve eksileri hakkında bilgilendirmektir.*
 
 *Every GIS system is essentially structured around five main components : spatially referenced data, hardware physically storing the data, software assembling the
 database, algorithms and data management procedures, and people, both the consumers and producers of spatial data. Every component mentioned increases the
