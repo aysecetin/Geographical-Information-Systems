@@ -1,4 +1,6 @@
-# *CBS'ye Giriş 🗺️*
+# *GIS Nedir?* 🤓
+
+## *CBS'ye Giriş* 🌎
 
 *Coğrafi Bilgi Sistemi (CBS), Dünya yüzeyinde bulunan mekansal ve coğrafi özellikleri dijital olarak temsil etmek için kullanılan bilgisayar tabanlı bir bilgi sistemidir.
 'Dünya üzerindeki her nesne coğrafi olarak referanslandırılabilir' düşüncesi CBS'yi bu kadar başarılı kılan temel ideolojidir. CBS yeni bir planlama ve analitik araçtır. Birçok avantajının yanı sıra dezavantajları da bulunmaktadır. Bu makalenin temel amacı, okuyucuları yeni teknoloji, teknolojinin uygulanması ve CBS'nin artıları ve eksileri hakkında bilgilendirmektir.*
