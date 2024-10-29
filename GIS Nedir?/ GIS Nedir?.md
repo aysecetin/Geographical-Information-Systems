@@ -14,20 +14,20 @@ GIS, coğrafi verilerin toplanması, işlenmesi, analizi ve görselleştirilmesi
 
 GIS sistemleri, beş ana bileşenden oluşur:
 
-Veri: Coğrafi bilgilerin iki ana türü vardır: vektör veriler (noktalar, çizgiler, çokgenler) ve raster veriler (piksel tabanlı görüntüler).
-Donanım: GIS yazılımlarını çalıştırmak için bilgisayarlar, sunucular ve depolama aygıtları gibi fiziksel cihazlar gereklidir.
-Yazılım: GIS verilerini yönetmek ve analiz etmek için kullanılan çeşitli yazılımlar bulunmaktadır. Örnekler arasında ArcGIS ve QGIS yer alır.
-İnsanlar: GIS verilerini üreten ve kullanan insanlar, analistler ve haritacılar gibi çeşitli uzmanlıklara sahip olabilir.
-Prosedürler: Verilerin toplanması, analizi ve görselleştirilmesi için belirli yöntem ve süreçler gereklidir.
+- Veri: Coğrafi bilgilerin iki ana türü vardır: vektör veriler (noktalar, çizgiler, çokgenler) ve raster veriler (piksel tabanlı görüntüler).
+- Donanım: GIS yazılımlarını çalıştırmak için bilgisayarlar, sunucular ve depolama aygıtları gibi fiziksel cihazlar gereklidir.
+- Yazılım: GIS verilerini yönetmek ve analiz etmek için kullanılan çeşitli yazılımlar bulunmaktadır. Örnekler arasında ArcGIS ve QGIS yer alır.
+- İnsanlar: GIS verilerini üreten ve kullanan insanlar, analistler ve haritacılar gibi çeşitli uzmanlıklara sahip olabilir.
+- Prosedürler: Verilerin toplanması, analizi ve görselleştirilmesi için belirli yöntem ve süreçler gereklidir.
 
 ## _GIS Uygulamaları_
 
 GIS, birçok alanda geniş uygulama yelpazesine sahiptir:
 
-Kentsel Planlama: Şehirlerin büyümesi ve gelişimi için verimli planlamalar yapılmasına yardımcı olur.
-Çevresel İzleme: Doğal kaynakların ve biyoçeşitliliğin korunmasına yönelik çalışmalarda kullanılır.
-Afet Yönetimi: Doğal afetler öncesinde, sırasında ve sonrasında risk değerlendirmeleri yaparak daha etkili müdahaleler sağlar.
-Sağlık Hizmetleri: Hastalıkların yayılma paternlerini analiz ederek halk sağlığı stratejilerinin geliştirilmesine katkı sağlar.
+- Kentsel Planlama: Şehirlerin büyümesi ve gelişimi için verimli planlamalar yapılmasına yardımcı olur.
+- Çevresel İzleme: Doğal kaynakların ve biyoçeşitliliğin korunmasına yönelik çalışmalarda kullanılır.
+- Afet Yönetimi: Doğal afetler öncesinde, sırasında ve sonrasında risk değerlendirmeleri yaparak daha etkili müdahaleler sağlar.
+- Sağlık Hizmetleri: Hastalıkların yayılma paternlerini analiz ederek halk sağlığı stratejilerinin geliştirilmesine katkı sağlar.
 
 ## _GIS’in Avantajları_
 
@@ -51,7 +51,3 @@ GIS, mekânsal verileri yönetmek ve analiz etmek için güçlü bir araçtır. 
 - GIS Lounge
 - Geospatial World
 
-##_Görseller_
-
-Örnek haritalar, grafikler ve diyagramlar ekleyerek okuyuculara görsel bir anlayış sunabilirsin.
-Bu metinler, Markdown dosyana ekleyerek içeriği zenginleştirebilir. Herhangi bir bölümde daha fazla detay veya özel bir bilgi eklemek istersen, bana söyleyebilirsin!
