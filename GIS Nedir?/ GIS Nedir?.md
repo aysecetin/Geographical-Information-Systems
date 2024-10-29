@@ -35,7 +35,11 @@ GIS, karar verme süreçlerini geliştirir, veri analizini hızlandırır ve kar
 
 ## _GIS’in Zorlukları ve Sınırlamaları_
 
-GIS’in bazı zorlukları arasında veri gizliliği ve güvenliği, yazılım ve donanım maliyetleri ve özel eğitim gereksinimleri yer almaktadır. Ayrıca, veri kalitesinin ve doğruluğunun sağlanması da önemli bir sorundur.
+GIS’in bazı zorlukları arasında; 
+- veri gizliliği ve güvenliği,
+- yazılım ve donanım maliyetleri ve
+- özel eğitim gereksinimleri yer almaktadır.
+‼️Ayrıca, veri kalitesinin ve doğruluğunun sağlanması da önemli bir sorundur.
 
 ## _GIS’te Gelecek Trendleri_
 
